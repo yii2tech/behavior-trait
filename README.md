@@ -1,5 +1,5 @@
-ActiveMail Extension for Yii 2
-==============================
+Behavior Trait Extension for Yii 2
+==================================
 
 This extension provides the ability of handling events via inline declared methods, which can be
 added via traits.
